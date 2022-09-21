@@ -1,3 +1,5 @@
+
+# Algortex
 - 👋 Hi, I’m @Algortex
 - 👀 I’m interested in coding, DSA, Math and AI.
 - 🌱 I’m currently learning CompSci and math.
